@@ -1,0 +1,4 @@
+- Hello, My name is [REDACTED], but I go by Legacy.
+- I run an initiative-community called the Delve Initiative.
+- Here is our website: https://sites.google.com/view/project-delve/home
+- I’m looking to collaborate on recording a podcast. If you are interested, feel free to contact me via Github.
